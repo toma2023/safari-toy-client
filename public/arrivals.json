@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": " Teddy the Bear Toy",
+      "description": "Soft and huggable teady toy for kids of all ages.",
+      "image": "https://i.ibb.co/cv1h9wv/7-663e554c-b67f-4a19-8f98-86fae65e76d2-788x788.webp",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Interactive Dog Toy",
+      "description": "Keep your dog entertained with this interactive toy.",
+      "image": "https://i.ibb.co/1ssX6hy/91-Jz0-Dh-Azl-L-AC-SX522.jpg",
+      "isNew": true
+    },
+    {
+      "id": 3,
+      "name": "Colorful Bird Stuffed Toy",
+      "description": "Vibrant and colorful bird toy with squeaker sound.",
+     "image": "https://i.ibb.co/pL8HJ7b/71-C7ei-Ttw-ML-AC-SX679.jpg" ,
+      "isNew": true
+    },
+    {
+      "id": 4,
+      "name": "Colorful Teddy  Toy",
+      "description": "Teddy is a classic teddy bear with a warm and fuzzy coat.",
+     "image": "https://i.ibb.co/q0vhfrX/61-W39-WBVHL-AC-SX425.jpg",
+      "isNew": true
+    },
+    {
+      "id": 5,
+      "name": "Colorful Unicorn Toy",
+      "description": "Vibrant and colorful bird toy with squeaker sound.",
+     "image": "https://i.ibb.co/J2x61Vy/1f0b00fc-aa9f-48b2-a5e0-c444d3559767-652c8d5a356b9bd559d31ba5915c8657.jpg",
+      "isNew": true
+    },{
+      "id": 6,
+      "name": "Colorful Cow Stuffed Toy",
+      "description": "Vibrant and colorful Cow toy with squeaker sound.",
+      "image": "https://i.ibb.co/2gsD9yw/61ag-J3j-F9j-L-AC-SX569.jpg",
+      "isNew": true
+    }
+  ]
